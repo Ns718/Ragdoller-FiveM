@@ -30,3 +30,4 @@ If you aim at any occupied vehicle, you can forcibly eject and toggle Ragdoller 
 ## Exports ##
 
 The resource also exports a `CheckRagdoller` function that can be called to manage Ragdoller for one frame. # Ragdoller-FiveM
+"# Ragdoller-FiveM" 
